@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0016-3sum-closest) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,12 +27,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
