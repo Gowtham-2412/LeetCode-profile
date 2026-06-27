@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0016-3sum-closest) |
+| [0567-permutation-in-string](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
