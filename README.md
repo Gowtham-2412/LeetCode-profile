@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0567-permutation-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gowtham-2412/LeetCode-profile/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
